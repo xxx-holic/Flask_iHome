@@ -1,0 +1,5 @@
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:15 error info
+WARNING demo.py:16 error info
+INFO demo.py:17 error info
+DEBUG demo.py:18 error info
